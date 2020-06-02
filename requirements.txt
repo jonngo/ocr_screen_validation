@@ -1,0 +1,7 @@
+fuzzywuzzy==0.17.0
+imutils==0.5.2
+numpy==1.16.4
+opencv-python==4.0.0.21
+Pillow==5.4.1
+pytesseract==0.2.6
+python-Levenshtein==0.12.0
